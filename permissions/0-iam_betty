@@ -1,0 +1,3 @@
+#!/bin/bash
+# Comentario: Script para cambiar al usuario betty
+su betty
